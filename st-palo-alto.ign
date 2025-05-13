@@ -1,1 +1,0 @@
-{"ignition":{"version":"3.5.0"},"storage":{"files":[{"path":"/etc/hostname","contents":{"compression":"","source":"data:,st-palo-alto%0A"},"mode":420}]},"systemd":{"units":[{"enabled":true,"name":"systemd-hostnamed.service"}]}}
