@@ -1,1 +1,0 @@
-{"ignition":{"version":"3.5.0"},"passwd":{"users":[{"name":"core","sshAuthorizedKeys":["ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIG7+ei1pd+LC9WtYJIsJlCFwUeNonWGpLscOcoR78GPR"]}]},"storage":{"files":[{"path":"/etc/hostname","contents":{"compression":"","source":"data:,st-palo-alto%0A"},"mode":420}]},"systemd":{"units":[{"enabled":true,"name":"systemd-hostnamed.service"}]}}
